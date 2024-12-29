@@ -1,0 +1,1 @@
+This repository contains a collection of data science projects showcasing my skills in data analysis, machine learning, and clustering using Python. Each project addresses a unique problem, demonstrating proficiency in various techniques and libraries such as pandas, NumPy, Matplotlib, Scikit-learn, and more.
